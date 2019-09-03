@@ -1,0 +1,16 @@
+Package: spatGeoDa
+Title: GeoDa Data for Class
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Judith",
+           family = "Derndorfer",
+           role = c("aut", "cre"),
+           email = "judith.derndorfer@wu.ac.at")
+Description: A GeoDa Data collection for Class
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports:
+    sf,
+    rgdal
